@@ -1,0 +1,80 @@
+{
+  "Televisão":[
+    {
+      "id" : 1,
+      "nome": "Tv Monitor",
+      "preço" : "597"
+    },
+
+    {
+      "id" : 2,
+      "nome": "Tv 8K",
+      "preço" : "5497"
+    },
+
+    {
+      "id" : 3,
+      "nome": "Tv Smart 4k",
+      "preço" : "2997"
+    },
+
+    {
+      "id" : 4,
+      "nome": "Tv FullHD",
+      "preço" : "1997"
+    }
+
+
+  ],
+  "hardware" : [
+    {
+      "id" : 1,
+      "nome": "Placa de Video",
+      "preço" : "2500"
+    },
+
+    {
+      "id" : 2,
+      "nome": "Placa Mãe",
+      "preço" : "700"
+    },
+
+    {
+      "id" : 3,
+      "nome": "Cooler",
+      "preço" : "250"
+    },
+
+    {
+      "id" : 4,
+      "nome": "Processador",
+      "preço" : "900"
+    }
+  ],
+
+  "Segurança" : [
+    {
+      "id" : 1,
+      "nome": "kit Câmera",
+      "preço" : "500"
+    },
+
+    {
+      "id" : 2,
+      "nome": "Alarme",
+      "preço" : "409"
+    },
+
+    {
+      "id" : 3,
+      "nome": "Cofre",
+      "preço" : "1500"
+    },
+
+    {
+      "id" : 4,
+      "nome": "Fechaduras",
+      "preço" : "230"
+    }
+  ]
+}
